@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sharpUpdate>
-    <update appID="AxolotlLauncher">
+    <update appId="AxolotlLauncher">
 	<version>2.0.0</version>
 	<url>https://github.com/AcraBroPlayz/AxolotlClient/blob/main/AxolotlClientUpdates/AxolotlLauncher.exe</url>
 	<md5>4798bee339e10845c048c35e12851ab3</md5>
