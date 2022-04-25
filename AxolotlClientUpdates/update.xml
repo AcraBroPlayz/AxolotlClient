@@ -5,6 +5,6 @@
 	<url>https://github.com/AcraBroPlayz/AxolotlClient/blob/main/AxolotlClientUpdates/AxolotlLauncher.exe</url>
 	<md5>4798bee339e10845c048c35e12851ab3</md5>
 	<description>Initial update</description>
-	<laucnhArgs></launchArgs>
+	<laucnhArgs>a</launchArgs>
 	</update>
 </sharpUpdate>
